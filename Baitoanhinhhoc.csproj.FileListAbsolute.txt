@@ -1,0 +1,15 @@
+C:\Users\AN\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\Bai_toan_hinh_hoc.exe
+C:\Users\AN\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\Bai_toan_hinh_hoc.deps.json
+C:\Users\AN\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\Bai_toan_hinh_hoc.runtimeconfig.json
+C:\Users\AN\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\Bai_toan_hinh_hoc.dll
+C:\Users\AN\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\Bai_toan_hinh_hoc.pdb
+C:\Users\AN\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\Bai_toan_hinh_hoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AN\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\Bai_toan_hinh_hoc.AssemblyInfoInputs.cache
+C:\Users\AN\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\Bai_toan_hinh_hoc.AssemblyInfo.cs
+C:\Users\AN\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\Bai_toan_hinh_hoc.csproj.CoreCompileInputs.cache
+C:\Users\AN\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\Bai_toan_hinh_hoc.dll
+C:\Users\AN\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\refint\Bai_toan_hinh_hoc.dll
+C:\Users\AN\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\Bai_toan_hinh_hoc.pdb
+C:\Users\AN\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\Bai_toan_hinh_hoc.genruntimeconfig.cache
+C:\Users\AN\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ref\Bai_toan_hinh_hoc.dll
+C:\Users\AN\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\Bai_toan.54143360.Up2Date
